@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Winter Blazer",
+      "price": 129.99,
+      "description": "Premium quality winter blazer with embroidered school logo",
+      "stock": 8,
+      "sizes": [
+        { "size": "XS", "inStock": false },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "type": "blazer",
+      "category": "winter",
+      "images": [
+        "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800",
+        "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=800&q=80"
+      ],
+      "schoolName": "Cambridge School",
+      "features": [
+        "Premium quality fabric",
+        "School logo embroidered",
+        "Inner lining for warmth",
+        "Two front pockets",
+        "Machine washable"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Girls' Pleated Skirt",
+      "price": 59.99,
+      "description": "Classic pleated skirt with adjustable waist",
+      "stock": 15,
+      "sizes": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": false },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "type": "skirt",
+      "category": "summer",
+      "images": [
+        "https://images.unsplash.com/photo-1580821810660-5486b8e980a6?w=800",
+        "https://images.unsplash.com/photo-1580821810660-5486b8e980a6?w=800&q=80"
+      ],
+      "schoolName": "Delhi Public School",
+      "features": [
+        "Classic design",
+        "Adjustable waist",
+        "Pleated skirt",
+        "Machine washable"
+      ],
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Navy Blue Trousers",
+      "price": 69.99,
+      "description": "Formal navy blue trousers with comfortable fit",
+      "stock": 3,
+      "sizes": [
+        { "size": "XS", "inStock": false },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": false },
+        { "size": "XL", "inStock": false }
+      ],
+      "type": "trousers",
+      "category": "universal",
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80"
+      ],
+      "schoolName": "Cambridge School",
+      "features": [
+        "Formal design",
+        "Navy blue color",
+        "Comfortable fit",
+        "Machine washable"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "White School Shirt",
+      "price": 45.99,
+      "description": "Cotton blend white shirt with easy-iron fabric",
+      "stock": 20,
+      "sizes": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": false },
+        { "size": "XL", "inStock": true }
+      ],
+      "type": "shirt",
+      "category": "universal",
+      "images": [
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800&q=80"
+      ],
+      "schoolName": "Delhi Public School",
+      "features": [
+        "Cotton blend",
+        "Easy-iron fabric",
+        "White color",
+        "Machine washable"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "School Tie",
+      "price": 19.99,
+      "description": "Striped school tie with clip-on option",
+      "stock": 25,
+      "sizes": [
+        { "size": "ONE SIZE", "inStock": true }
+      ],
+      "type": "tie",
+      "category": "universal",
+      "images": [
+        "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?w=800",
+        "https://images.unsplash.com/photo-1598971861713-54ad16a7e72e?w=800&q=80"
+      ],
+      "schoolName": "Cambridge School",
+      "features": [
+        "Striped design",
+        "Clip-on option",
+        "Machine washable"
+      ],
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Sports Jersey",
+      "price": 49.99,
+      "description": "Breathable sports jersey with moisture-wicking fabric",
+      "stock": 12,
+      "sizes": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": false },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "type": "sportswear",
+      "category": "summer",
+      "images": [
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80"
+      ],
+      "schoolName": "Delhi Public School",
+      "features": [
+        "Breathable fabric",
+        "Moisture-wicking",
+        "Sports jersey",
+        "Machine washable"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "Winter Sweater",
+      "price": 89.99,
+      "description": "V-neck wool blend sweater with school logo",
+      "stock": 7,
+      "sizes": [
+        { "size": "XS", "inStock": false },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "type": "sweater",
+      "category": "winter",
+      "images": [
+        "https://images.unsplash.com/photo-1586765677067-f8030bd8e303?w=800",
+        "https://images.unsplash.com/photo-1586765677067-f8030bd8e303?w=800&q=80"
+      ],
+      "schoolName": "Cambridge School",
+      "features": [
+        "V-neck design",
+        "Wool blend",
+        "School logo",
+        "Machine washable"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 8,
+      "name": "PE Track Pants",
+      "price": 54.99,
+      "description": "Comfortable track pants for physical education",
+      "stock": 5,
+      "sizes": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": false },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "type": "sportswear",
+      "category": "universal",
+      "images": [
+        "https://images.unsplash.com/photo-1552902875-9ac1f9fe0c07?w=800",
+        "https://images.unsplash.com/photo-1552902875-9ac1f9fe0c07?w=800&q=80"
+      ],
+      "schoolName": "Delhi Public School",
+      "features": [
+        "Comfortable fit",
+        "Track pants",
+        "Physical education",
+        "Machine washable"
+      ],
+      "rating": 4.9
+    }
+  ]
+} 
